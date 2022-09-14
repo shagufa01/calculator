@@ -1,0 +1,44 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.box {
+    width: 105px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    border: 1px solid gray;
+    background-color: gray;
+}
+
+button:hover {
+    color: turquoise;
+    background-color: royalblue;
+    border: none;
+}
+
+.equal {
+    width: 100px;
+}
+
+
+input {
+width: 100px; 
+display: block;
+margin: auto;
+outline-color: white;
+margin-top: 2px;  
+     
+}
+
+button {
+    width: 25px;
+}
+
+h5 {
+    width: 105px;
+    display: flex;
+    justify-content: center;
+}
